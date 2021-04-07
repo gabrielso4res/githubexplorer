@@ -1,7 +1,5 @@
 import React from 'react';
 
-const user = {
-    name: 'Gabsabriel'
+function App(){
+    return <h1>Hello World</h1>
 }
-
-console.log(user.adress?.street)
